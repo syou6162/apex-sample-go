@@ -1,0 +1,8 @@
+{
+  "name": "apex_sample",
+  "description": "fugafuga",
+  "memory": 128,
+  "timeout": 60,
+  "role": "arn:aws:iam::326910485554:role/apex_sample_lambda_function",
+  "environment": {}
+}
